@@ -31,7 +31,7 @@ https://www.tooplate.com/view/2114-pixie
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <span><marquee style="direction: right; " >OFERTAS POR CARNAVAL DEL 2X1 EN TODOS LOS SABORES!!! NO TE LO PIERDAS!</marquee></span>
+            <span><marquee style="direction: right; " >OFERTAS DE 2X1 EN TODOS NUESTROS HELADOS!!! NO TE LO PIERDAS!</marquee></span>
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@ https://www.tooplate.com/view/2114-pixie
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">INICIO
+              <a class="nav-link" href="index.md">INICIO
                 <span class="sr-only">(current)</span>
               </a>
             </li>
@@ -74,11 +74,11 @@ https://www.tooplate.com/view/2114-pixie
             <div class="caption">
               <h2>SWEET ICE CREAM</h2>
               <div class="line-dec"></div>
-              <p>Bienvenido a la página de productos Pingüino, conoce nuestra línea de deliciosos helados en <a href="products.html">HELADOS</a>.
+              <p>Bienvenido a la página de Sweet Ice Cream, conoce nuestra línea de deliciosos helados en <a href="products.html">HELADOS</a>.
 
-Provoca a tus papilas gustativas y haz clic en los enlaces para buscar más información.<a rel="nofollow" href="https://www.facebook.com/tooplate/">Tooplate</a> free template site. Thank you. Photo credit goes to <a rel="nofollow" href="https://www.pexels.com">Pexels website</a>.</p>
+Provoca a tus papilas gustativas y disfruta de nuestros deliciosos productos asistiendo a nuestros locales ubicados en Samborondón. O puedes pedir uno mediante cualquier servicio de transporte de comida a domicilio.</p>
               <div class="main-button">
-                <a href="#">Order Now!</a>
+                <a href="#">Has una orden ahora!</a>
               </div>
             </div>
           </div>
