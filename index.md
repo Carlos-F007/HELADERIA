@@ -74,11 +74,11 @@ https://www.tooplate.com/view/2114-pixie
             <div class="caption">
               <h2>SWEET ICE CREAM</h2>
               <div class="line-dec"></div>
-              <p>Bienvenido a la página de Sweet Ice Cream, conoce nuestra línea de deliciosos helados en <a href="products.html">HELADOS</a>.
-
-Provoca a tus papilas gustativas y disfruta de nuestros deliciosos productos asistiendo a nuestros locales ubicados en Samborondón. O puedes pedir uno mediante cualquier servicio de transporte de comida a domicilio.</p>
+              <p>Hay una muy buena razón para comer helado y es que realmente puede hacerte feliz. ¡Científicamente comprobado! Ven y disfruta de Sweet Ice Cream. ¡De lunes a Domingo y para todas las edades!
+              
+              No te quedes sin probar los diferentes helados y sabores que tenemos para ti. ¡La vida es como un helado, disfrútala antes que se derrita!</p>
               <div class="main-button">
-                <a href="#">Has una orden ahora!</a>
+                <a href="products.html">Has una orden ahora!</a>
               </div>
             </div>
           </div>
