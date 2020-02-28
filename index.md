@@ -180,9 +180,11 @@ r
           <div class="col-md-8 offset-md-2">
             <div class="main-content">
               <p>En Sweet Ice Cream tenemos los helados más ricos, al mejor precio. Puedes elegir el sabor, aderezos, topping, frutas y salsa a tu gusto. ¡Llegaron los helados que te harán tocar el cielo!</p>
+             </div>
           </div>
         </div>
       </div>
+    </div>
     </div>
     <!-- Subscribe Form Ends Here -->
 
