@@ -37,7 +37,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
       <div class="container">
-        <a class="navbar-brand" href="#"><video src="img/NarcosLay.mp4" autoplay muted loop poster="assets/images/header-logo.jpeg"></a>
+        <a class="navbar-brand" href="#"><video src="assets/images/intro.mp4" autoplay muted loop poster="assets/images/header-logo.jpeg"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
